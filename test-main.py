@@ -13,7 +13,7 @@ import pandas as pd
 # Add the current directory to Python path to import fetch_bybit
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from fetch_bybit import get_ohlcv, get_available_symbols
+from bybit.fetch_bybit import get_ohlcv, get_available_symbols
 
 
 def test_basic_fetch():
