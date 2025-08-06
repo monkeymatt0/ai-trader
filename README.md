@@ -1,4 +1,4 @@
-# AI trading ageng
+# AI trading agent
 
 AI agent which is able to analyze and make trading actions like:
 
