@@ -1,3 +1,4 @@
 pip-tools
 pandas
 requests
+fastmcp>=2.0.0
